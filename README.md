@@ -1,4 +1,11 @@
-## Hi there 👋
+# 컴퓨터공학과 / 23101220 / 최승빈
+
+## TODO
+- 소프트웨어공학
+[x] 랩탑에 git 설치 및 github id 생성하기
+
+- 오픈소스소프트웨어
+[x] github에 read.md 파일 생성 및 마크다운 문법을 두 가지 이상 사용하여 자신을 나타내기
 
 <!--
 **Choiseungbin7391/Choiseungbin7391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
